@@ -5,6 +5,9 @@
 ##### Header 5
 ###### Header 6
 
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
 
 ```
 $ git init
